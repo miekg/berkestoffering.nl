@@ -1,6 +1,11 @@
-body {
-    background: url("gfx/berken.png") repeat fixed 100%;
-} 
+body { }
+
+.image {
+/*    background: url("gfx/berken.png");
+    background-size:contain; */
+    width: 50%;
+    margin: 0 auto;
+}
 
 .bottom {
     bottom: 0;
@@ -19,14 +24,19 @@ body {
     vertical-align: top;
     margin-left: 10em;
     margin-right: 10em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    box-shadow: 10px 10px 5px #888888;
 }
 
-.stoffering {
-
+.lead {
+    text-align: center;
 }
 
-.klussen {
-
+.contact {
+    text-align: center;
 }
 
 .telefoon {
@@ -35,4 +45,8 @@ body {
 
 .email {
 
+}
+
+.name {
+    text-align: center;
 }

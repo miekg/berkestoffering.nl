@@ -45,10 +45,12 @@ body {
 .jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
+  background-image: url("/gfx/berken.png");
 }
 .jumbotron .btn {
   padding: 14px 24px;
   font-size: 21px;
+  width: 15em;
 }
 
 /* Supporting marketing content */

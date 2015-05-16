@@ -46,6 +46,7 @@ body {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
   background-image: url("/gfx/berken.png");
+  box-shadow: 10px 10px 5px #888888;
 }
 .jumbotron .btn {
   padding: 14px 24px;
